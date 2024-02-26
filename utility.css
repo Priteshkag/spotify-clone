@@ -1,7 +1,7 @@
 body {
     background-color: black;
     color: white;
-    font-size: large;
+    font-size: 17px;
 }
 
 .flex {
@@ -14,7 +14,7 @@ body {
 }
 
 .p-1 {
-    padding: 10px;
+    padding: 8px;
 }
 
 .invert {
